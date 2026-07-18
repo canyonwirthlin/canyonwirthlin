@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Canyon Wirthlin
+## Hi there! I'm Canyon Wirthlin 👋
 
 I'm a full-time student at the University of Utah and an aspiring full-stack developer. I first taught myself to program at eight years old to create small games for my friends. I was inevitably pushed into Computer Science by my love for problem-solving and my desire to create work that makes a real impact on people's lives. I am in the constant pursuit of knowledge and adventure, and I love a good challenge. 
 
